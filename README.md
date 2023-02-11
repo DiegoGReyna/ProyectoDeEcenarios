@@ -1,3 +1,3 @@
-# Proyecto De Escenarios de video juegos
+# Proyecto De Escenarios de videojuegos
 
 Developed with Unreal Engine 4
